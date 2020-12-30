@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "consolidation/robo": "^1.0.0"
+        "consolidation/robo": "^3.0.0-alpha3"
     },
     "require-dev": {
         "codeception/base": "^2.2",
